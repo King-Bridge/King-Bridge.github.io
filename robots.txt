@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://King-Bridge.github.io/sitemap.xml
+Sitemap: https://KingsBridge.github.io/sitemap.xml
