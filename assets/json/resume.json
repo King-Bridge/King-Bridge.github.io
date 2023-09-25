@@ -56,7 +56,19 @@
     {
       "title": "Comprehensive Scholarship",
       "date": "2022-10",
-      "awarder": "Tsinghua University",
+      "awarder": "Guangzhou Pharmaceutical Holdings Limited (GPHL) Foundation -Tsinghua University",
+      "summary": "A scholarship offered by Guangzhou Pharmaceutical Holdings Limited Foundation - Tsinghua University to praise outstanding students."
+    },
+    {
+      "title": "1st Place of Preparation and dish Up of an English Breakfast with Robots (PUB.R) challenge",
+      "date": "2023-06",
+      "awarder": "IEEE International Conference on Robotics and Automation (ICRA) 2023",
+      "summary": "to do"
+    },
+    {
+      "title": "4st Place of RoboCup 2023 Humanoid League - Kid-size",
+      "date": "2023-07",
+      "awarder": "Robocup 2023 Commitee",
       "summary": "to do"
     }
   ],

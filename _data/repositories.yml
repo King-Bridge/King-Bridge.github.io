@@ -1,12 +1,6 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - King-Bridge
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - King-Bridge/PDF_Binarizer
+  - King-Bridge/camera_basic_operations
