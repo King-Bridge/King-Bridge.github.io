@@ -1,7 +1,18 @@
+#### Jun, 2026
 
-#### June, 2025
+I will present our paper [Architected Vacuum Driven Origami Structures via Direct Ink Writing of RTV Silicone](https://ieeexplore.ieee.org/document/11091466) at *ICRA 2026*, Vienna, Austria.
 
-Our paper [Architected Vacuum Driven Origami Structures via Direct Ink Writing of RTV Silicone](https://ieeexplore.ieee.org/document/11091466) is accepted to *Robotics and Automation Letter*.
+#### Mar, 2026
+
+I will present our paper [Seesoil: Mitigating Negative Emotions through a Desktop Robot for Oil Splash Incidents]() at *HRI 2026* in Edinburgh, Scotland.
+
+#### Jan, 2026
+
+Our paper [Seesoil: Mitigating Negative Emotions through a Desktop Robot for Oil Splash Incidents]() is accepted to *HRI 2026* Student Design Challenge track!
+
+#### Jun, 2025
+
+Our paper [Architected Vacuum Driven Origami Structures via Direct Ink Writing of RTV Silicone](https://ieeexplore.ieee.org/document/11091466) is accepted to *Robotics and Automation Letter*!
 
 #### Sept, 2024
 
@@ -13,16 +24,16 @@ I had wonderful research internship at [Bio-inspired Robotics and Design Lab, SU
 
 #### Jul, 2023
 
-The demo of our paper "Enhancing Daily Life through an Interactive Desktop Robotics System" won the **Best Demo Award** at *CICAI 2023*.
+The demo of our paper "Enhancing Daily Life through an Interactive Desktop Robotics System" won the **Best Demo Award** at *CICAI 2023*!
 
 #### Jul, 2023
 
-Our paper [Enhancing Daily Life through an Interactive Desktop Robotics System](https://link.springer.com/chapter/10.1007/978-981-99-9119-8_8) (also my first paper) is accepted to *CICAI 2023*.
+Our paper [Enhancing Daily Life through an Interactive Desktop Robotics System](https://link.springer.com/chapter/10.1007/978-981-99-9119-8_8) (also my first paper) is accepted to *CICAI 2023*!
 
 #### Jul, 2023
 
-Our team (TH-MOS) won the 4th Place in [RoboCup 2023 Humanoid League](https://2023.robocup.org/en/home/).
+Our team (TH-MOS) won the 4th Place in [RoboCup 2023 Humanoid League](https://2023.robocup.org/en/home/)!
 
 #### Jun, 2023
 
-Our team (Discover-Lab) won the 1st Place in [ICRA Preparation and dish Up of an English Breakfast with Robots (PUB.R)](https://lcas.lincoln.ac.uk/wp/events/the-pub-r-competition/) competition.
+Our team (Discover-Lab) won the 1st Place in [ICRA Preparation and dish Up of an English Breakfast with Robots (PUB.R)](https://lcas.lincoln.ac.uk/wp/events/the-pub-r-competition/) competition!

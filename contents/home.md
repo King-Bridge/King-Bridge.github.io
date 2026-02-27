@@ -26,7 +26,7 @@ Beijing, China
 
 ### Research
 
-My research interests lie in Robotics, Soft Actuation, intelligent control, simulation to reality. My aspiration involves combining artificial muscle structures with dynamic simulators to build intelligent robots that can collaborate perfectly with humans. I am passionate about exploring the potential of soft robotics and its application in diverse practical scenarios, such as medical and industrial fields. I am also interested in developing efficient control algorithms and simulation methods to improve the performance of soft robots.
+My research interests lie in Robotics, Soft Actuation, intelligent control. My aspiration involves combining artificial muscle structures with dynamic simulators to build intelligent robots that can collaborate perfectly with humans. I am passionate about exploring the potential of soft robotics and its application in diverse practical scenarios. I am also interested in developing efficient control algorithms and simulation methods to improve the performance of soft robots.
 
 I started research since my sophomore year. I fortunately began my very first research in [DISCOVER Lab](https://air.tsinghua.edu.cn/en/Research1/DISCOVER_Laboratory.htm) advised by Professor [Guyue Zhou](https://air.tsinghua.edu.cn/en/info/1046/1196.htm), where I collaborated with Dr. Yongliang Shi, Yuhang Zheng, Pengfei Li and Beiwen Tian on the building of a desktop robotics system aiming to make English-style breakfast and organize drawer interactively. It is also that time when I got my first publication.
 
