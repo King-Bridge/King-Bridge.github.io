@@ -42,4 +42,12 @@ Here are two of my favorite performances:
 
 ### ⚽ Sports
 
-When I'm not in the lab or the concert hall, you can probably find me on the soccer field. I am a main player for the **Xingjian College Soccer Team**. The teamwork, strategy, and sheer physical exertion on the pitch perfectly complement my academic pursuits.
+During my undergraduate years, I was a main player for the **Xingjian College Soccer Team**. Now, I continue to pursue this passion as a main player for the **Soccer Team of the Department of Mechanical Engineering**. I absolutely love the adrenaline rush of competitive sports and the unbreakable bond built with my teammates on the pitch.
+
+<div style="background-color: #f8f9fa; border-left: 4px solid #4CAF50; padding: 15px; margin-top: 15px; border-radius: 0 8px 8px 0; color: #333;">
+  <strong style="font-size: 16px;">📰 Featured Article</strong><br>
+  Upon my undergraduate graduation, my team dedicated a special WeChat article to me, summarizing my memorable moments on the pitch. 
+  <a href="https://mp.weixin.qq.com/s/aSv8F7a3m18oV1Q5PEWweg?scene=1" target="_blank" style="color: #4CAF50; text-decoration: none; font-weight: bold; margin-left: 5px;">
+    👉 Read the Story (WeChat Official Account)
+  </a>
+</div>

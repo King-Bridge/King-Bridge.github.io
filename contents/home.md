@@ -36,10 +36,10 @@ I am currently honored to be advised by Professor Huichan Zhao at THU Soft Robot
 
 Robotics, Soft Actuation, intelligent control, simulation to reality. -->
 
-### Spare-time Hobbies
+<!-- ### Spare-time Hobbies
 
 I am the principal Clarinet player in the [Tsinghua University Symphony Orchestra (TUSO)](https://www.arts.tsinghua.edu.cn/info/1084/1492.htm).
-I am also a main player of Xingjian College soccer team.
+I am also a main player of Xingjian College soccer team. -->
 
 ### Misc
 
